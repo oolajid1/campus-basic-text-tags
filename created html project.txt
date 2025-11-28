@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+ <html lang="en">
+   
+<head>
+  <meta charset="UTF-8" 
+  <meta name="author" content="Oluwatosin Olajide">
+  <title>Assignment</title>
+  <link rel="stylesheet" href="styles.css">
+  </head>
+<body>
+  <header>
+    <h1>List of My Favorite Thanksgiving Deserts!</h1>
+   <p>
+   Cakes
+   </p>
+  </header>
+
+  <main>
+  <section>
+  <h2>Heading 1</h2>
+  <p>
+    Pie
+  </p>
+  <p>
+  Candied Yams
+  </p>
+  </>section>
+
+  <section>
+  <p>
+  Paragraph
+  </p>
+  <p>
+  Paragraph with lots of words.
+  </p>
+  <p>
+   Another Paragraph
+   </p>
+  </section>
+  </main>
+ 
+  <footer>
+
+<p>
+ Paragraph
+</p>
+
+  </footer>
+
+  </body>
+  </html>
